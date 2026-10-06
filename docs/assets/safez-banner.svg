@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380" role="img" aria-labelledby="title desc">
+<title id="title">safeZ — kanıta dayalı web güvenliği incelemesi</title>
+<desc id="desc">Lacivert zemin, büyük safeZ yazısı ve karşılaştırmalı raporlamayı temsil eden belge çizimi.</desc>
+<rect width="1400" height="380" rx="14" fill="#101a2c"/>
+<path d="M60 326H1340" stroke="#344155" stroke-width="1"/>
+<g font-family="Noto Sans, Arial, Helvetica, sans-serif">
+<text x="60" y="173" fill="#f2f5fb" font-size="116" font-weight="700" letter-spacing="-5">safeZ</text>
+<text x="64" y="240" fill="#c8d4e8" font-size="29" font-weight="400">Kanıta dayalı web güvenliği incelemesi.</text>
+<text x="64" y="288" fill="#8fabc9" font-size="18">Yerel çalışma alanı · Kontrollü karşılaştırmalar · TR / EN</text>
+<text x="64" y="354" fill="#a1b5d0" font-size="13">Python 3.9+ / OWASP ZAP / SQLite / PDF</text>
+</g>
+<g fill="none" stroke-linejoin="round">
+<path d="M1117 66H1315V277H1117Z" stroke="#344762" stroke-width="1.5"/>
+<path d="M1079 85H1277V296H1079Z" stroke="#506987" stroke-width="1.5"/>
+<path d="M1041 104H1239V315H1041Z" fill="#15253f" stroke="#789bd0" stroke-width="1.5"/>
+<path d="M1070 135H1137L1070 197H1137" stroke="#719cff" stroke-width="11"/>
+<path d="M1070 225H1208M1070 244H1170M1070 263H1208" stroke="#7391b7" stroke-width="2"/>
+<path d="M1070 284H1135" stroke="#719cff" stroke-width="3"/>
+</g>
+<rect x=".5" y=".5" width="1399" height="379" rx="14" fill="none" stroke="#2c3b50"/>
+</svg>
